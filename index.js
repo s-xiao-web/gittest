@@ -8,3 +8,5 @@
 dev dev dev
 
 localStorage localStorage
+
+这个是新实现的功能
